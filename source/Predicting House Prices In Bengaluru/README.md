@@ -9,4 +9,4 @@ What are the things that a potential home buyer considers before purchasing a ho
 ## Notebooks
 - [CSVProcessor](https://github.com/anshulp2912/Machine-hack-Codes/blob/main/source/Predicting%20House%20Prices%20In%20Bengaluru/Notebooks/CSVProcessor_PHPB.ipynb)
 - [Modelling](https://github.com/anshulp2912/Machine-hack-Codes/blob/main/source/Predicting%20House%20Prices%20In%20Bengaluru/Notebooks/Modelling_PHPB.ipynb)
-- [Train_EDA]()
+- [Train_EDA](https://github.com/anshulp2912/Machine-hack-Codes/blob/main/source/Predicting%20House%20Prices%20In%20Bengaluru/Notebooks/PHPB_EDA_Train.ipynb)
